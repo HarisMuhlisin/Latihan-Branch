@@ -1,1 +1,1 @@
-# Latihan-Branch
+# Berlatih Membuat Branch dan Berlatih mengaplikasikannya
